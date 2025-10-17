@@ -1,0 +1,5254 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "0"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "1"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "2"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "3"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "4"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "5"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "6"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "7"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "8"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "9"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "10"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "11"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "12"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "13"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "14"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "0",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "1",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "2",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "3",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "4",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "5",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "6",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "7",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "8",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "9",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "10",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "11",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "12",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "13",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "14",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "15",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "16",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "17",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "18",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "19",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "20",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "21",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "22",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "23",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "24",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "25",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "26",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "27",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "28",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "29",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "30",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "31",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "32",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "33",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "34",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "35",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "36",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "37",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "38",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "39",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"lifetime": "40",
+			"level": "15"
+		},
+		"Name": "scguns:temporary_light"
+	}
+]

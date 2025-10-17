@@ -1,0 +1,1877 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "harp",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "basedrum",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "basedrum",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "snare",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "snare",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "hat",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "hat",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bass",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bass",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "flute",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "flute",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bell",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bell",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "guitar",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "guitar",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "chime",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "chime",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "xylophone",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "xylophone",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "iron_xylophone",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "iron_xylophone",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "cow_bell",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "cow_bell",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "didgeridoo",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "didgeridoo",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bit",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bit",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "banjo",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "banjo",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "pling",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "pling",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "zombie",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "zombie",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "skeleton",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "skeleton",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "creeper",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "creeper",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "dragon",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "dragon",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "wither_skeleton",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "wither_skeleton",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "piglin",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "piglin",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "custom_head",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "custom_head",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "kobolediator",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "kobolediator",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "aptrgangr",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "aptrgangr",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "draugr",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "draugr",
+			"facing": "north"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "harp",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "harp",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "basedrum",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "basedrum",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "snare",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "snare",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "hat",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "hat",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bass",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bass",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "flute",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "flute",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bell",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bell",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "guitar",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "guitar",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "chime",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "chime",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "xylophone",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "xylophone",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "iron_xylophone",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "iron_xylophone",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "cow_bell",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "cow_bell",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "didgeridoo",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "didgeridoo",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bit",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bit",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "banjo",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "banjo",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "pling",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "pling",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "zombie",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "zombie",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "skeleton",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "skeleton",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "creeper",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "creeper",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "dragon",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "dragon",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "wither_skeleton",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "wither_skeleton",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "piglin",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "piglin",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "custom_head",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "custom_head",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "kobolediator",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "kobolediator",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "aptrgangr",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "aptrgangr",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "draugr",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "draugr",
+			"facing": "south"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "harp",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "harp",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "basedrum",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "basedrum",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "snare",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "snare",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "hat",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "hat",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bass",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bass",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "flute",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "flute",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bell",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bell",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "guitar",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "guitar",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "chime",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "chime",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "xylophone",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "xylophone",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "iron_xylophone",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "iron_xylophone",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "cow_bell",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "cow_bell",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "didgeridoo",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "didgeridoo",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bit",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bit",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "banjo",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "banjo",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "pling",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "pling",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "zombie",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "zombie",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "skeleton",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "skeleton",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "creeper",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "creeper",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "dragon",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "dragon",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "wither_skeleton",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "wither_skeleton",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "piglin",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "piglin",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "custom_head",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "custom_head",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "kobolediator",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "kobolediator",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "aptrgangr",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "aptrgangr",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "draugr",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "draugr",
+			"facing": "west"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "harp",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "harp",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "basedrum",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "basedrum",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "snare",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "snare",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "hat",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "hat",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bass",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bass",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "flute",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "flute",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bell",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bell",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "guitar",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "guitar",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "chime",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "chime",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "xylophone",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "xylophone",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "iron_xylophone",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "iron_xylophone",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "cow_bell",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "cow_bell",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "didgeridoo",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "didgeridoo",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "bit",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "bit",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "banjo",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "banjo",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "pling",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "pling",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "zombie",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "zombie",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "skeleton",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "skeleton",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "creeper",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "creeper",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "dragon",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "dragon",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "wither_skeleton",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "wither_skeleton",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "piglin",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "piglin",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "custom_head",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "custom_head",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "kobolediator",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "kobolediator",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "aptrgangr",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "aptrgangr",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"instrument": "draugr",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"instrument": "draugr",
+			"facing": "east"
+		},
+		"Name": "scguns:charged_amethyst_relay"
+	}
+]
